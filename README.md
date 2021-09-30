@@ -7,3 +7,4 @@ Classless CSS (also called no-class CSS) themes do not use ID's or classes. So, 
 ## Light
 [beech.css](https://github.com/y-arjun-y/beech.css)  
 [sunny.css](https://github.com/y-arjun-y/sunny.css)
+[beech-red.css](https://github.com/y-arjun-y/beech-red.css)
